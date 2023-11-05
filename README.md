@@ -1,7 +1,7 @@
 
 # delacernaLab's Website
 
-Visit **[delacernalab.com](http://delacernalab.com)** 🚀
+Visit **[delacernalab.github.io/dCLab-Webpage](https://delacernalab.github.io/dCLab-Webpage)** 🚀
 
 _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
 
