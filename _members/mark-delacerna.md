@@ -1,6 +1,6 @@
 ---
 name: Mark dela Cerna
-image: images/gs_eagle.jpg
+image: images/gs_eagle.png
 role: pi
 aliases:
   - M. dela Cerna

@@ -6,6 +6,10 @@ pi:
   icon: fa-solid fa-microscope
   description: Principal Investigator
 
+staff:
+  icon: fa-solid fa-flask-vial
+  description: Research Staff
+
 postdoc:
   icon: fa-solid fa-glasses
   description: Postdoctoral Researcher
@@ -23,7 +27,7 @@ programmer:
   description: Programmer
 
 mascot:
-  icon: fa-solid fa-dog
+  icon: fa-solid fa-paw
   description: Mascot
 
 # general
