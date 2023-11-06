@@ -7,12 +7,11 @@ footer: images/background.jpg
 
 # site social media and other links
 links:
-  email: contact@delacernaLab.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
+  email: mdelacerna@georgiasouthern.edu
+  orcid: 0000-0001-5995-4667
+  google-scholar: ZM5OfF4AAAAJ
   github: delacernaLab
-  twitter: delacernaLab
-  youtube: delacernaLab
+  twitter: dc_proteinsci
 
 ### jekyll settings
 
