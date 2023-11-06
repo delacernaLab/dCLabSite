@@ -1,9 +1,13 @@
 # site properties and page defaults
-title: delacernaLab
-subtitle: 
-description: An engaging 1-3 sentence description of your lab.
-header: images/background.jpg
-footer: images/background.jpg
+title: dela Cerna Research Group
+subtitle: Structural Biology and Drug Discovery
+description: We are a biochemistry research group at Georgia Southern University in Savannah, GA. Curiosity leads to cures!
+
+header: images/science_center.jpeg
+footer: images/science_center.jpeg
+
+show-title: true
+show-subtitle: true
 
 # site social media and other links
 links:
