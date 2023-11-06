@@ -14,7 +14,7 @@ aliases:
 links:
   home-page: https://cosm.georgiasouthern.edu/bcp/mark-vincent-dela-cerna/
   orcid: 0000-0001-5995-4667
-  twitter: @mvcdelacerna
+  twitter: mvcdelacerna
   email: mdelacerna@georgiasouthern.edu
 ---
 
