@@ -1,1 +1,1 @@
-Sitemap: /dCLab-Webpage/sitemap.xml
+Sitemap: /sitemap.xml
