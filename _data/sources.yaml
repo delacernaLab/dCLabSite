@@ -1,7 +1,18 @@
 - id: doi:10.1101/2023.07.31.551065
   image: https://github.com/delacernaLab/dCLabSite/blob/main/images/pubs/prl3sites.png
 
+- title: Identification of putative druggable pockets in PRL3, a significant oncology target, using in silico analysis
+  authors:
+    - Grace Bennett
+    - Julia Starczewski
+    - Mark dela Cerna
+  publisher: bioRxiv
+  date: 2023
+  link: https://www.biorxiv.org/content/10.1101/2023.07.31.551065v1
+  image: https://github.com/delacernaLab/dCLabSite/blob/main/images/pubs/prl3sites.png
+
 - id: url:https://www.nsta.org/journal-college-science-teaching/journal-college-science-teaching-septemberoctober-2022/reflections
+  
 
 - id: doi:10.3101/1098-7096-82.1.32
 
