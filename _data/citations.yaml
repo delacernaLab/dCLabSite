@@ -12,6 +12,6 @@
   publisher: The Journal of Organic Chemistry
   date: '2016-07-19'
   link: https://doi.org/gs3wc2
-  image: images/pubs/pentacene.gif
+  image: https://github.com/delacernaLab/dCLabSite/blob/main/images/pubs/pentacene.gif
   plugin: sources.py
   file: sources.yaml
