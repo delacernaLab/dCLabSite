@@ -6,12 +6,14 @@
   authors:
   - Bikash Pal
   - Bo-Chao Lin
-  - Mark Vincent Carreon dela Cerna
+  - Mark dela Cerna
   - Chao-Ping Hsu
-  - Chih-Hsiu Lin
+  - Chih-Hsu Lin
   publisher: The Journal of Organic Chemistry
   date: '2016-07-19'
   link: https://doi.org/gs3wc2
   image: https://github.com/delacernaLab/dCLabSite/blob/main/images/pubs/pentacene.gif
+  tags:
+  - Academia Sinica
   plugin: sources.py
   file: sources.yaml
