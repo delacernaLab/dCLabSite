@@ -8,8 +8,8 @@
   - Mark dela Cerna
   publisher: bioRxiv
   date: ''
-  link: https://www.biorxiv.org/content/10.1101/2023.07.31.551065v1
-  image: https://github.com/delacernaLab/dCLabSite/blob/main/images/pubs/prl3sites.png
+  link: biorxiv.org/content/10.1101/2023.07.31.551065v1
+  image: github.com/delacernaLab/dCLabSite/blob/main/images/pubs/prl3sites.png
   plugin: sources.py
   file: sources.yaml
 - id: url:https://www.nsta.org/journal-college-science-teaching/journal-college-science-teaching-septemberoctober-2022/reflections
