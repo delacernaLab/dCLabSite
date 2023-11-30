@@ -11,7 +11,7 @@
   link: biorxiv.org/content/10.1101/2023.07.31.551065v1
   image: github.com/delacernaLab/dCLabSite/blob/main/images/pubs/prl3sites.png
   plugin: sources.py
-  file: sources-me.yaml
+  file: sources.yaml
 - id: url:https://www.nsta.org/journal-college-science-teaching/journal-college-science-teaching-septemberoctober-2022/reflections
   title: Reflections on Multimodal Delivery of a Laboratory Course for Nonscience
     Majors and Opportunities for Improved Student Engagement | NSTA
@@ -78,5 +78,17 @@
   date: '2016-07-19'
   link: https://doi.org/gs3wc2
   image: https://github.com/delacernaLab/dCLabSite/blob/main/images/pubs/pentacene.gif
+  plugin: sources.py
+  file: sources-me.yaml
+- title: Identification of putative druggable pockets in PRL3, a significant oncology
+    target, using in silico analysis
+  authors:
+  - Grace Bennett
+  - Julia Starczewski
+  - Mark dela Cerna
+  publisher: BioRxiv
+  date: ''
+  link: biorxiv.org/content/10.1101/2023.07.31.551065v1
+  image: github.com/delacernaLab/dCLabSite/blob/main/images/pubs/prl3sites.png
   plugin: sources.py
   file: sources-me.yaml
