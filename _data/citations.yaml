@@ -1,51 +1,5 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1038/s41598-021-89668-5
-  title: A screen of FDA-approved drugs identifies inhibitors of protein tyrosine
-    phosphatase 4A3 (PTP4A3 or PRL-3)
-  authors:
-  - Dylan R. Rivas
-  - Mark Vincent C. Dela Cerna
-  - Caroline N. Smith
-  - Shilpa Sampathi
-  - Blaine G. Patty
-  - Donghan Lee
-  - Jessica S. Blackburn
-  publisher: Scientific Reports
-  date: '2021-05-13'
-  link: https://doi.org/gs3wcx
-  plugin: sources.py
-  file: sources-me.yaml
-- id: doi:10.1016/j.ejpb.2018.04.013
-  title: pH-responsive delivery of Griffithsin from electrospun fibers
-  authors:
-  - Kevin M. Tyo
-  - Jinghua Duan
-  - Pravallika Kollipara
-  - Mark Vincent C. dela Cerna
-  - Donghan Lee
-  - Kenneth E. Palmer
-  - Jill M. Steinbach-Rankins
-  publisher: European Journal of Pharmaceutics and Biopharmaceutics
-  date: '2019-05-01'
-  link: https://doi.org/gs3wcz
-  plugin: sources.py
-  file: sources-me.yaml
-- id: doi:10.1021/acs.joc.6b00526
-  title: Face-to-Face Packing of 2,3,9,10-Tetrasubstituted Pentacene Derivatives Revealed
-    through a Solid State [4 + 4] Thermal Cycloaddition and Molecular Dynamic Simulation
-  authors:
-  - Bikash Pal
-  - Bo-Chao Lin
-  - Mark Vincent Carreon dela Cerna
-  - Chao-Ping Hsu
-  - Chih-Hsiu Lin
-  publisher: The Journal of Organic Chemistry
-  date: '2016-07-19'
-  link: https://doi.org/gs3wc2
-  image: https://github.com/delacernaLab/dCLabSite/blob/main/images/pubs/pentacene.gif
-  plugin: sources.py
-  file: sources-me.yaml
 - title: Identification of putative druggable pockets in PRL3, a significant oncology
     target, using in silico analysis
   authors:
@@ -80,3 +34,49 @@
   link: https://doi.org/gs3wcw
   plugin: sources.py
   file: sources-me.yaml
+- id: doi:10.1038/s41598-021-89668-5
+  title: A screen of FDA-approved drugs identifies inhibitors of protein tyrosine
+    phosphatase 4A3 (PTP4A3 or PRL-3)
+  authors:
+  - Dylan R. Rivas
+  - Mark Vincent C. Dela Cerna
+  - Caroline N. Smith
+  - Shilpa Sampathi
+  - Blaine G. Patty
+  - Donghan Lee
+  - Jessica S. Blackburn
+  publisher: Scientific Reports
+  date: '2021-05-13'
+  link: https://doi.org/gs3wcx
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.ejpb.2018.04.013
+  title: pH-responsive delivery of Griffithsin from electrospun fibers
+  authors:
+  - Kevin M. Tyo
+  - Jinghua Duan
+  - Pravallika Kollipara
+  - Mark Vincent C. dela Cerna
+  - Donghan Lee
+  - Kenneth E. Palmer
+  - Jill M. Steinbach-Rankins
+  publisher: European Journal of Pharmaceutics and Biopharmaceutics
+  date: '2019-05-01'
+  link: https://doi.org/gs3wcz
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1021/acs.joc.6b00526
+  title: Face-to-Face Packing of 2,3,9,10-Tetrasubstituted Pentacene Derivatives Revealed
+    through a Solid State [4 + 4] Thermal Cycloaddition and Molecular Dynamic Simulation
+  authors:
+  - Bikash Pal
+  - Bo-Chao Lin
+  - Mark Vincent Carreon dela Cerna
+  - Chao-Ping Hsu
+  - Chih-Hsiu Lin
+  publisher: The Journal of Organic Chemistry
+  date: '2016-07-19'
+  link: https://doi.org/gs3wc2
+  image: https://github.com/delacernaLab/dCLabSite/blob/main/images/pubs/pentacene.gif
+  plugin: sources.py
+  file: sources.yaml
